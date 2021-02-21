@@ -4,4 +4,4 @@
 
 #### it is implemented in two different searching and storing Algorithms (Binary Tree , Linked List)
 
-*developed on 2018/01/11*
+*developed on 2018, January*
